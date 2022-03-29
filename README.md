@@ -1,2 +1,3 @@
-# Cough Analytics Project at Fordham University
-• Built deep learning models with PyTorch to classify audio recordings of different medical patients as coughs or snores in noisy environments
+# Cough Analytics 
+• Built deep learning models with PyTorch to classify audio recordings as coughs or snores in noisy environments
+• Joint project with IBM Research, Zurich and Dr. Sudip Vhaduri at Fordham University
